@@ -1,6 +1,6 @@
 # _Sobre mim_
 - Olá meu nome é **@kkMarsh**
-- Meu email de contato profissional é [email](marsh.come@gmail.com)
+- Meu email de contato profissional é **marshcome@gmail.com**
 - Eu estou interessado em aprender a programar novas linguagens.
 - minha conta no YouTube ----->[YouTube](https://www.youtube.com/channel/UC5sxVnx3TbqwvRgwLX4hCLg)
 
